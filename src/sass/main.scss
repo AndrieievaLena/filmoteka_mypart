@@ -1,3 +1,13 @@
 @import '../../node_modules/modern-normalize/modern-normalize.css';
 @import './utils/tag-settings';
-@import '../components/footer';
+
+@import './components/main-section';
+@import './components/pagination.scss';
+@import './components/footer';
+@import './components/modal-footer.scss';
+@import './components/main-header';
+@import './components/library';
+
+// h1 {
+//   background-color: #ff6b018e;
+// }
